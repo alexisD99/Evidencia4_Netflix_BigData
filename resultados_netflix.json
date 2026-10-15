@@ -1,0 +1,48 @@
+{
+  "proyecto": "Netflix Big Data",
+  "total_comentarios": 5000,
+  "total_palabras": 53032,
+  "comentarios_con_peliculas": 1728,
+  "palabras_frecuentes": [
+    {
+      "palabra": "de",
+      "cantidad": 4433
+    },
+    {
+      "palabra": "la",
+      "cantidad": 3457
+    },
+    {
+      "palabra": "el",
+      "cantidad": 2000
+    },
+    {
+      "palabra": "las",
+      "cantidad": 1776
+    },
+    {
+      "palabra": "películas",
+      "cantidad": 1728
+    },
+    {
+      "palabra": "es",
+      "cantidad": 1262
+    },
+    {
+      "palabra": "series",
+      "cantidad": 1247
+    },
+    {
+      "palabra": "y",
+      "cantidad": 1225
+    },
+    {
+      "palabra": "para",
+      "cantidad": 1221
+    },
+    {
+      "palabra": "contenido",
+      "cantidad": 1216
+    }
+  ]
+}
